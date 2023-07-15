@@ -2,7 +2,9 @@
 
 ## Summary
 
-[Figma Placeholder]
+![Alt text](image.png)
+
+[Figma](https://www.figma.com/file/3GlzJywqCZbOksfXE7QWu2/Coding-Interview?type=design&node-id=0%3A1&mode=design&t=IpMcksMSAkamH4Qm-1)
 
 As shown in the above figure, a two-column layout Data Portal needs to be implemented.
 
